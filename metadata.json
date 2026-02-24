@@ -1,0 +1,8 @@
+{
+  "name": "Smart AI Tools",
+  "description": "A comprehensive suite of AI-powered and utility tools including text generation, image creation, and device utilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
